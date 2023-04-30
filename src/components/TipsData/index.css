@@ -1,0 +1,15 @@
+.tips-list {
+  padding-left: 0px;
+}
+
+.each-tip-list {
+  list-style-type: none;
+}
+
+.tips-main-heading {
+  font-size: 20px;
+}
+
+.tip-heading {
+  font-size: 20px;
+}
